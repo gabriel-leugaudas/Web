@@ -1,0 +1,7 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/User/Desktop/DESK/EasyTech/EasyTech/usbwebserver\\php\\ext\\php_curl.dll' - N\xef\xbf\xbdo foi poss\xef\xbf\xbdvel encontrar o m\xef\xbf\xbddulo especificado.\r\n in Unknown on line 0
+[Thu Mar 12 18:50:21.066309 2020] [mpm_winnt:notice] [pid 1540:tid 788] AH00455: Apache/2.4.29 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Thu Mar 12 18:50:21.066309 2020] [mpm_winnt:notice] [pid 1540:tid 788] AH00456: Server built: Nov  3 2017 01:01:54
+[Thu Mar 12 18:50:21.066309 2020] [core:notice] [pid 1540:tid 788] AH00094: Command line: 'C:\\Users\\User\\Desktop\\DESK\\EasyTech\\EasyTech\\usbwebserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/User/Desktop/DESK/EasyTech/EasyTech/usbwebserver/apache2'
+[Thu Mar 12 18:50:21.077312 2020] [mpm_winnt:notice] [pid 1540:tid 788] AH00418: Parent: Created child process 5676
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/User/Desktop/DESK/EasyTech/EasyTech/usbwebserver\\php\\ext\\php_curl.dll' - N\xef\xbf\xbdo foi poss\xef\xbf\xbdvel encontrar o m\xef\xbf\xbddulo especificado.\r\n in Unknown on line 0
+[Thu Mar 12 18:50:21.809894 2020] [mpm_winnt:notice] [pid 5676:tid 816] AH00354: Child: Starting 64 worker threads.
